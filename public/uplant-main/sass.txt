@@ -1,0 +1,4 @@
+sass --watch D:\Dropbox\Shahnewaz\agronix\assets\scss\main.scss:D:\Dropbox\Shahnewaz\agronix\assets\css\style.css
+
+
+sass --watch C:\Users\Admin\Dropbox\Iqbal\agronix-fix-2\assets\scss\main.scss:C:\Users\Admin\Dropbox\Iqbal\agronix-fix-2\assets\css\style.css
